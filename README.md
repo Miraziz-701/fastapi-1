@@ -19,8 +19,6 @@ pip install "fastapi[standard]"
 
 ### 2. Start the server
 ``` bash
-Copy
-Edit
 fastapi dev main.py
 ```
 
