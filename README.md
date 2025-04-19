@@ -16,13 +16,11 @@ It focuses on understanding the basics of FastAPI and how to build simple API en
 ```bash
 pip install "fastapi[standard]"
 
-### 2. Start the server
-```bash
+2. Start the server
+bash
 Copy
 Edit
 fastapi dev main.py
+3. Open in your browser
+Interactive documentation: http://localhost:8000/docs
 
-### 3. Open in your browser
-Interactive documentation:
-Copy
-http://localhost:8000/docs
